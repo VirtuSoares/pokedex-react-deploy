@@ -41,3 +41,12 @@ Aplicação web Single Page Application (SPA) desenvolvida com **React**, **Tail
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/VirtuSoares/pokedex-react-deploy.git](https://github.com/VirtuSoares/pokedex-react-deploy.git)
+
+
+
+   💭 Reflexão: Portfólio e Importância do README
+Qual o impacto de ter um projeto documentado e publicado no seu portfólio como desenvolvedor? Por que o README é a primeira coisa que um recrutador lê?
+
+Publicar uma aplicação funcional online transforma o código-fonte em um produto real e acessível: qualquer recrutador, líder técnico ou cliente consegue navegar entre rotas, testar a responsividade em diferentes tamanhos de tela e verificar o consumo de API diretamente pelo navegador, sem precisar clonar o projeto ou configurar dependências locais. Isso demonstra domínio completo do ciclo de desenvolvimento — desde a arquitetura de componentes até o build de produção, configuração de rotas SPA no servidor e deploy contínuo.
+
+O README.md é a primeira leitura de um recrutador porque funciona como o cartão de visitas técnico do repositório. Antes de inspecionar arquivos ou código, o avaliador usa o README para entender rapidamente o objetivo do projeto, visualizar a interface (com capturas em Desktop e Mobile), identificar as tecnologias empregadas e validar a capacidade do desenvolvedor de documentar e comunicar suas soluções de forma clara e profissional.
