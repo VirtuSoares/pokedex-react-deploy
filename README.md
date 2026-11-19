@@ -44,7 +44,9 @@ Aplicação web Single Page Application (SPA) desenvolvida com **React**, **Tail
 
 
 
-   💭 Reflexão: Portfólio e Importância do README
+
+
+💭 Reflexão: Portfólio e Importância do README
 Qual o impacto de ter um projeto documentado e publicado no seu portfólio como desenvolvedor? Por que o README é a primeira coisa que um recrutador lê?
 
 Publicar uma aplicação funcional online transforma o código-fonte em um produto real e acessível: qualquer recrutador, líder técnico ou cliente consegue navegar entre rotas, testar a responsividade em diferentes tamanhos de tela e verificar o consumo de API diretamente pelo navegador, sem precisar clonar o projeto ou configurar dependências locais. Isso demonstra domínio completo do ciclo de desenvolvimento — desde a arquitetura de componentes até o build de produção, configuração de rotas SPA no servidor e deploy contínuo.
